@@ -1,2 +1,7 @@
-# IN3110_Group_Sessions
-Materials from the group sessions with Frida (group 1 &amp; 5)
+# IN3110 Group Sessions
+
+Here I will put materials from the group sessions (group 1 &amp; 5)
+
+
+
+Frida Westby (f.m.e.westby@fys.uio.no)
