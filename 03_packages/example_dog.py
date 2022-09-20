@@ -1,4 +1,4 @@
-import Dog as GoodBoi
+from Dog_module import Dog as GoodBoi
 
 charlie = GoodBoi("Charlie", "Male")
 print(charlie)
